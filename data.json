@@ -1,0 +1,52 @@
+{"projects":
+    [
+        {"id": 0,
+         "project_name": "Random Quote Generator",
+         "description": "I generated quotes from a java script object I created",
+         "technologies": ["JavaScript", "HTML", "CSS"],
+         "live_link": "https://jwiley25.github.io/unit1/",
+         "github_link": "https://github.com/jwiley25/unit1",
+         "project_thumbnail": "/static/images/1thumb.png",
+         "image_urls": ["/static/images/11.png",
+           "/static/images/12.png"]
+        },
+        {"id": 1,
+         "project_name": "Student Profile",
+         "description": "I created a student profile page with student objects, and included the ability to pagnate and search the database",
+         "technologies": ["JavaScript", "HTML", "CSS"],
+         "live_link": "https://jwiley25.github.io/unit2/",
+         "github_link": "https://github.com/jwiley25/unit2",
+         "project_thumbnail": "/static/images/2thumb.png",
+         "image_urls": ["/static/images/21.png",
+           "/static/images/22.png"]
+        },
+        {"id": 2,
+         "project_name": "Confrence Form",
+         "description": "I created a confrence sign up form with the ablility to validate data using regex, and verify the form before submitting ",
+         "technologies": ["JavaScript", "jQuery", "HTML", "regex"],
+         "live_link": "https://jwiley25.github.io/unit3/",
+         "github_link": "https://github.com/jwiley25/unit3",
+         "project_thumbnail": "/static/images/3thumb.png",
+         "image_urls": ["/static/images/31",
+           "/static/images/32"]
+        },
+        {"id": 3,
+         "project_name": "Phrase Hunter",
+         "description": "In this project I created a phrase hunter game focusing on object oriented programming",
+         "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
+         "live_link": "https://jwiley25.github.io/unit4/",
+         "github_link": "https://github.com/jwiley25/unit4",
+         "project_thumbnail": "/static/images/4thumb.png",
+         "image_urls": ["/static/images/41.png", "/static/images/42.png"]
+        },
+        {"id": 4,
+         "project_name": "Users Api",
+         "description": "This website uses a user database api created by someonelse and got that infromation and turrened into a searchable database",
+         "technologies": ["JavaScript", "jQuery", "JSON", "XML", "API", "HTML", "CSS"],
+         "live_link": "https://jwiley25.github.io/unit5/",
+         "github_link": "https://github.com/jwiley25/unit5",
+         "project_thumbnail": "/static/images/5thumb.png",
+         "image_urls": []
+        }
+    ]
+}
